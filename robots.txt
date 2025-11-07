@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://carapicuiba.despachante10.com.br/sitemap.xml
